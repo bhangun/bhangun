@@ -1,4 +1,6 @@
-## Hi there 👋
+## Salam
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhangun)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **bhangun/bhangun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
